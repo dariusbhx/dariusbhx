@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @dariusbhx
 - 👀 I’m interested in JavaScript, PHP
-- 🌱 I’m currently learning ... Vue.js, Laravel
